@@ -1,3 +1,4 @@
+package LEETCODE;
 import java.util.Arrays;
 
 public class maxProfit {
